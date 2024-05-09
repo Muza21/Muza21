@@ -30,20 +30,15 @@ Here are some ideas to get you started:
 
 ### 🛠️ Technologies and Tools 🛠️
 
-<p align="center">
-  <img src="./assets/icons/c++.svg" alt="c++" />
-  <img src="./assets/icons/csharp.svg" alt="csharp" />
+<div align="center">
   <img src="./assets/icons/html.svg" alt="html" />
   <img src="./assets/icons/css.svg" alt="css" />
   <img src="./assets/icons/javascript.svg" alt="javascript" />
   <img src="./assets/icons/typescript.svg" alt="typescript" />
-  <img src="./assets/icons/php.svg" alt="php" />
-  <img src="./assets/icons/git.svg" alt="git" />
-  <img src="./assets/icons/github.svg" alt="github" />
   <img src="./assets/icons/linux.svg" alt="linux" />
-  <img src="./assets/icons/vscode.svg" alt="vscode" />
   <img src="./assets/icons/mysql.svg" alt="mysql" />
-</p>
+  <img src="./assets/icons/php.svg" alt="php" />
+</div>
 
 ### About me
 
