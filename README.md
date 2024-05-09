@@ -24,9 +24,34 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Most Used Languages</summary>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muza21&layout=compact&hide_border=true&count_private=true" />
 </details>
+
+### 🛠️ Technologies and Tools 🛠️
+
+<p align="center">
+  <img src="./assets/icons/c.svg" alt="c" />
+  <img src="./assets/icons/c++.svg" alt="c++" />
+  <img src="./assets/icons/csharp.svg" alt="csharp" />
+  <img src="./assets/icons/html.svg" alt="html" />
+  <img src="./assets/icons/css.svg" alt="css" />
+  <img src="./assets/icons/javascript.svg" alt="javascript" />
+  <img src="./assets/icons/typescript.svg" alt="typescript" />
+  <img src="./assets/icons/python.svg" alt="python" />
+  <img src="./assets/icons/php.svg" alt="php" />
+  <img src="./assets/icons/laravel.svg" alt="laravel" />
+  <img src="./assets/icons/vue.svg" alt="vue" />
+  <img src="./assets/icons/git.svg" alt="git" />
+  <img src="./assets/icons/github.svg" alt="github" />
+  <img src="./assets/icons/linux.svg" alt="linux" />
+  <img src="./assets/icons/vscode.svg" alt="vscode" />
+  <img src="./assets/icons/npm.svg" alt="npm" />
+  <img src="./assets/icons/eslint.svg" alt="eslint" />
+  <img src="./assets/icons/prettier.svg" alt="prettier" />
+  <img src="./assets/icons/vite.svg" alt="vite" />
+  <img src="./assets/icons/mysql.svg" alt="mysql" />
+</p>
 
 ### About me
 
