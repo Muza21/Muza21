@@ -1,19 +1,3 @@
-<!--
-**Muza21/Muza21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### Hi there 👋
@@ -30,7 +14,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Technologies and Tools 🛠️
 
-<div align="center">
+<div>
   <img src="./assets/icons/html.svg" alt="html" />
   <img src="./assets/icons/css.svg" alt="css" />
   <img src="./assets/icons/javascript.svg" alt="javascript" />
@@ -47,3 +31,5 @@ Here are some ideas to get you started:
 🌱 PHP OOP is my jam right now. It’s all about writing code that’s clean, organized, and super easy to update. Totally digging this modern coding vibe!
 
 📫 How to reach me: [Email me!](mailto:lasha.2017.muzashvili@gmail.com)
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
