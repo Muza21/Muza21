@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 ### 🛠️ Technologies and Tools 🛠️
 
 <p align="center">
-  <img src="./assets/icons/c.svg" alt="c" />
   <img src="./assets/icons/c++.svg" alt="c++" />
   <img src="./assets/icons/csharp.svg" alt="csharp" />
   <img src="./assets/icons/html.svg" alt="html" />
