@@ -19,9 +19,9 @@
   <img src="./assets/icons/css.svg" alt="css" />
   <img src="./assets/icons/javascript.svg" alt="javascript" />
   <img src="./assets/icons/typescript.svg" alt="typescript" />
-  <img src="./assets/icons/linux.svg" alt="linux" />
-  <img src="./assets/icons/mysql.svg" alt="mysql" />
   <img src="./assets/icons/php.svg" alt="php" />
+  <img src="./assets/icons/mysql.svg" alt="mysql" />
+  <img src="./assets/icons/linux.svg" alt="linux" />
 </div>
 
 ### About me
