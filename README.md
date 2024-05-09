@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Muza21/Muza21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,21 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
-<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-                     
-</div>               
-<h1 align='center'> Hello, I am 0101001010101010101010 </h1>   
-### Developer and author of the AutoFi library, published on pypi https://pypi.org !!  
-          
-         
-<h4 align="center">
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
-</h4>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+### Hi there 👋
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=D4Fi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4Fi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Muza21&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lasha Muzashvili's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muza21&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <br>
 <br>
@@ -75,50 +65,6 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 </div><br>
-
-<br>
-
-<hr>
-
-### On Her Blog (in Portuguese)
-
-<!-- BLOG:START -->
-
-- [“Conversando” com uma IA: perguntei ao Bard, do Google, sobre o trabalho do futuro](https://camilaloliveira.com.br/blog/milla/conversando-com-uma-ia-perguntei-ao-bard-do-google-sobre-o-trabalho-do-futuro/)
-- [O desafio do debate: a guerra de informações sobre o PL das Fake News](https://camilaloliveira.com.br/blog/milla/o-desafio-do-debate-a-guerra-de-informacoes-sobre-o-pl-das-fake-news/)
-- [Precisamos conversar sobre a violência](https://prensa.li/@clcmo/precisamos-conversar-sobre-a-violencia)
-- [E o Mundo Caiu?](https://prensa.li/@clcmo/e-o-mundo-caiu)
-<!-- BLOG:END -->
-
-### On Her GitHub
-
-<!--RECENT_ACTIVITY:start-->
-
-1. ⬆️ Pushed 1 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-2. ⬆️ Pushed 1 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-3. ⬆️ Pushed 1 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-4. ⬆️ Pushed 1 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-5. ⬆️ Pushed 2 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<hr>
-
-## Favorit ebooks
-
-<div align="center">
-  <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-cyWrkZ1Y4gnObYhGu9EAwAAAA%26pid%3DApi&f=1&ipt=47d4acb41e114394971e6af81b8ba95451997bf0bc6bd27c05bba11ec5f287a9&ipo=images" />
-  <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ufnjUbUSIw5hya5U3hcR_AHaKe%26pid%3DApi&f=1&ipt=66d887e08f568d1bb5fc57967d576d40797fee639bdc723acbff30cda12b1b86&ipo=images" />
-  <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.b3pAJT41DRn8sBZ-GeKfVQAAAA%26pid%3DApi&f=1&ipt=30d196ff402d8c80576a3b7f349bdf2f4072383bd20679162cedac5ca9420b68&ipo=images" />
-  <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Kroo7mqB1v5_GOh8xly5OQAAAA%26pid%3DApi&f=1&ipt=b5892e57c744d79700f0c52fee743b151305b908d27f31ccac49cf25b1e7bff9&ipo=images" />
-  <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.h9AzDOU5zqmMAa4DP64GnwHaJ8%26pid%3DApi&f=1&ipt=fcdc17a100c0feee0e5075d041de54558ebb24908b93616329aeef25f9ff12a8&ipo=images" />
-
-  <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://images-na.ssl-images-amazon.com/images/I/811EGiSqCPL.jpg" />
-   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://github.com/D4Fi/D4Fi/assets/139288494/a7e7b66c-a835-49ca-a2d3-eafc0690086c" />
-</div>
-
-<hr>
-
-<img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
