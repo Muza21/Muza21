@@ -12,7 +12,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muza21&layout=compact&hide_border=true&count_private=true" />
 </details>
 
-### 🛠️ Technologies and Tools 🛠️
+### 🛠️ Web Development Stack 🛠️
 
 <div>
   <img src="./assets/icons/html.svg" alt="html" />
