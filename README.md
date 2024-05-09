@@ -37,18 +37,11 @@ Here are some ideas to get you started:
   <img src="./assets/icons/css.svg" alt="css" />
   <img src="./assets/icons/javascript.svg" alt="javascript" />
   <img src="./assets/icons/typescript.svg" alt="typescript" />
-  <img src="./assets/icons/python.svg" alt="python" />
   <img src="./assets/icons/php.svg" alt="php" />
-  <img src="./assets/icons/laravel.svg" alt="laravel" />
-  <img src="./assets/icons/vue.svg" alt="vue" />
   <img src="./assets/icons/git.svg" alt="git" />
   <img src="./assets/icons/github.svg" alt="github" />
   <img src="./assets/icons/linux.svg" alt="linux" />
   <img src="./assets/icons/vscode.svg" alt="vscode" />
-  <img src="./assets/icons/npm.svg" alt="npm" />
-  <img src="./assets/icons/eslint.svg" alt="eslint" />
-  <img src="./assets/icons/prettier.svg" alt="prettier" />
-  <img src="./assets/icons/vite.svg" alt="vite" />
   <img src="./assets/icons/mysql.svg" alt="mysql" />
 </p>
 
