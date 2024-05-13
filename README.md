@@ -28,7 +28,9 @@
 
 🔭 I’m on a PHP adventure, crafting a cool web app. It’s a real dive into coding and a playground for learning all the PHP tricks.
 
-🌱 PHP OOP is my jam right now. It’s all about writing code that’s clean, organized, and super easy to update. Totally digging this modern coding vibe!
+🌱 Currently immersed in PHP Object-Oriented Programming (OOP), emphasizing clean, organized code for easy maintenance. Embracing the modern coding ethos of efficiency and adaptability!
+
+📚 I'm diving into Bash scripting to make tasks easier and become better at using the command line.
 
 📫 How to reach me: [Email me!](mailto:lasha.2017.muzashvili@gmail.com)
 
