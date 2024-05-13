@@ -9,7 +9,12 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muza21&layout=compact&hide_border=true&count_private=true" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muza21&layout=compact&hide_border=true&count_private=true" alt="Lasha Muzashvili's most used languages"/>
+</details>
+
+<details>
+  <summary>:zap: Github Streak Stats</summary>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muza21&" alt="Lasha Muzashvili's github streak stats" />
 </details>
 
 ### 🛠️ Web Development Stack 🛠️
